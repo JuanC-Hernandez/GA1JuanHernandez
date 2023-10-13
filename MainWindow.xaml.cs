@@ -23,6 +23,7 @@ namespace GA1JuanHernandez
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Juan Hernandez, want to move up from my current position as an IT tech.");
         }
     }
 }
